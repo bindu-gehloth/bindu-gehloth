@@ -1,4 +1,4 @@
-# about_bindu
+# bindu-gehloth
 # 💫 About Me:
 Hi, I'm passionate about learning and building things with technology. I enjoy exploring programming, especially working with Python , HTML , CSS , MySQL and developing practical knowledge.<br><br>I'm currently focusing on:<br>1. Strengthening my fundamentals in coding and problem-solving.<br>2. Building simple projects.<br>3. Learning how real-world software is created and deployed.<br><br>I like to keep improving step-by-step and turning ideas into working projects.<br><br>Skills and Interests:<br>1. Python (beginner to intermediate)<br>2. Basic web development (HTML, CSS, JavaScript)<br>3. Problem-solving and logical thinking.<br><br>Goals:<br>1. Build meaningful and useful creative projects.<br>2. Contribute to open source in the future.<br>3. Grow into a skills developer.
 
